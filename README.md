@@ -1,5 +1,7 @@
 # windows-calculator-java
 
+*Program is a a replica of the Windows 7 Programming Calculator.
+
 1) Calculator will operate with the number buttons on the keypad and will do operations based on input. 
 
 2) The final result of an operation will display once the ‘=’ is pressed; all operations to be done in "Dec" mode.
